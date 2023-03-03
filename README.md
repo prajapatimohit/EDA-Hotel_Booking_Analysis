@@ -30,11 +30,26 @@ The data analysis aims to provide answers to the following questions:
 8.Draw conclusions from the EDA to provide insights and recommendations for future actions.
 
 # Exploratory Data Analysis
-performed data analysis on given data set and  found out the followings
-1.City Hotel accounted for most number of bookings
+performed data analysis on given data set and  found out the followings insights
+1.City Hotel accounted for most number of bookings.
+
 2.In both the hotels adults have made heighest no. of booking as compared with children.
+
 3.Cancellation rate was heigher for City hotel than the Resort hotel.
+
 4.Based on the dataset, it appears that the year 2016 had the highest number of hotel bookings.
+
 5. As August marks the end of summer and the beginning of autumn, it suggests that the summer season is a peak period for hotel bookings.
-6.Based on the fact that most stays occur on weekday nights
-7.
+6. 
+7.Based on the fact that most stays occur on weekday nights.
+
+8.It appears that the majority of visitors prefer to travel in pairs.
+
+9.Majority of the distribution channels and market segments involve travel agencies (online or offline).
+
+10.Most guest come from Portugal and other European countries.
+
+11.Analyzed whether the a customer is repeated or a new customer.
+
+12.Drew the average monthly price for booking a hotel.
+
