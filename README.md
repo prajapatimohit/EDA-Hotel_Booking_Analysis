@@ -14,10 +14,17 @@ The data analysis aims to provide answers to the following questions:
 
 # Technique
 1.First, it's important to understand the problem statement.
+
 2.Import all the necessary libraries, such as NumPy, Pandas, Matplotlib, and Seaborn.
+
 3.Study the given dataset to get a better understanding of the data and its features.
+
 4.Remove any duplicate values to ensure data accuracy.
+
 5.Rectify null values by eliminating unnecessary columns or using imputation methods to fill in missing values.
+
 6.Perform exploratory data analysis using different visualization charts to better understand the data and identify patterns or trends.
+
 7.Develop solutions to address any business problems identified during the analysis.
+
 8.Draw conclusions from the EDA to provide insights and recommendations for future actions.
