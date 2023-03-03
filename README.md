@@ -40,16 +40,16 @@ performed data analysis on given data set and  found out the followings insights
 4.Based on the dataset, it appears that the year 2016 had the highest number of hotel bookings.
 
 5. As August marks the end of summer and the beginning of autumn, it suggests that the summer season is a peak period for hotel bookings.
-6. 
-7.Based on the fact that most stays occur on weekday nights.
 
-8.It appears that the majority of visitors prefer to travel in pairs.
+6.Based on the fact that most stays occur on weekday nights.
 
-9.Majority of the distribution channels and market segments involve travel agencies (online or offline).
+7.It appears that the majority of visitors prefer to travel in pairs.
 
-10.Most guest come from Portugal and other European countries.
+8.Majority of the distribution channels and market segments involve travel agencies (online or offline).
 
-11.Analyzed whether the a customer is repeated or a new customer.
+9.Most guest come from Portugal and other European countries.
 
-12.Drew the average monthly price for booking a hotel.
+10.Analyzed whether the a customer is repeated or a new customer.
+
+11.Drew the average monthly price for booking a hotel.
 
