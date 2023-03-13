@@ -39,7 +39,7 @@ performed data analysis on given data set and  found out the followings insights
 
 4.Based on the dataset, it appears that the year 2016 had the highest number of hotel bookings.
 
-5. As August marks the end of summer and the beginning of autumn, it suggests that the summer season is a peak period for hotel bookings.
+5.As August marks the end of summer and the beginning of autumn, it suggests that the summer season is a peak period for hotel bookings.
 
 6.Based on the fact that most stays occur on weekday nights.
 
