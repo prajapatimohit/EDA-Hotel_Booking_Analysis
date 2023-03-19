@@ -53,6 +53,8 @@ performed data analysis on given data set and  found out the followings insights
 
 11.Drew the average monthly price for booking a hotel.
 
+12.Drew pairplot and correlation heatmap for relationship between different coloumns.
+
 # Solution to Business Objective
 1.Since the majority of the booked hotels belong to the city category, it is essential to allocate a significant portion of the targeting funds towards these hotels.
 
