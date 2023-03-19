@@ -53,3 +53,29 @@ performed data analysis on given data set and  found out the followings insights
 
 11.Drew the average monthly price for booking a hotel.
 
+# Solution to Business Objective
+1.Since the majority of the booked hotels belong to the city category, it is essential to allocate a significant portion of the targeting funds towards these hotels.
+
+2.Considering that a large portion of the guests are from Western Europe, it is advisable to allocate a significant budget towards that region.
+
+3.As we do not currently have any returning guests, it would be beneficial to focus our advertising efforts on attracting and retaining guests to increase the number of repeat visits.
+
+4.Since the majority of guests come from Western Europe, it would be wise to allocate a significant portion of the budget towards that area.
+
+## **Conclusion**
+
+1.Travellers appear to favor the City Hotel more, and it generates a higher revenue as well.
+
+2.No of children is higher in Resort hotel as compared to City hotel.It means families who have children preffered more to book Resort hotel.
+
+3.The number of bookings that were canceled is approximately half the number of bookings that were not canceled.
+
+4.July and August are the months with the highest number of bookings.
+
+5.Travellers seem to prefer Room Type A the most.
+
+6.Hotels can increase their revenue by catering to the needs of couples, as they are the most frequent type of guests.
+
+7.For hotels higher adr deals come via GDS channel, so hotels should increase their popularity on this channel.
+
+
